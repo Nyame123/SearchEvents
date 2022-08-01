@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Concerts",
+    "events": [],
+    "children": [
+      {
+        "id": 100,
+        "name": "Rock and Pop",
+        "events": [],
+        "children": [
+          {
+            "id": 150,
+            "name": "Back Street Boys",
+            "children": [],
+            "events": [
+              {
+                "id": 2344,
+                "name": "BackStreet Boys",
+                "venueName": "Freedom Mortgage Pavillion",
+                "city": "Camden",
+                "price": 23,
+                "distanceFromVenue": 123322.324344,
+                "date": "July 16 2020"
+              },
+              {
+                "id": 2345,
+                "name": "BackStreet Boys",
+                "venueName": "XFinity Theatre",
+                "city": "Camden",
+                "price": 23,
+                "distanceFromVenue": 123322.324344,
+                "date": "July 16 2020"
+              },
+              {
+                "id": 2346,
+                "name": "BackStreet Boys",
+                "venueName": "Bethel Wood Center for the Arts",
+                "city": "Bethel",
+                "price": 23,
+                "distanceFromVenue": 123322.324344,
+                "date": "July 16 2020"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 151,
+        "name": "Miami Boys",
+        "children": [],
+        "events": [
+          {
+            "id": 2347,
+            "name": "Miami Boys",
+            "venueName": "Freedom Mortgage",
+            "city": "Camdena",
+            "price": 23,
+            "distanceFromVenue": 3322.324344,
+            "date": "July 17 2020"
+          },
+          {
+            "id": 2348,
+            "name": "Miami Boys",
+            "venueName": "XFinity Theatre",
+            "city": "Martford",
+            "price": 22,
+            "distanceFromVenue": 12322.32437,
+            "date": "July 16 2020"
+          },
+          {
+            "id": 2349,
+            "name": "Miami Boys",
+            "venueName": "Bethel Wood Center for the Arts",
+            "city": "Bethel",
+            "price": 89,
+            "distanceFromVenue": 123342.32444,
+            "date": "July 16 2020"
+          }
+        ]
+      }
+    ]
+  }
+]
